@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+    <!-- <link href='http://fonts.googleapis.com/css?family=Oxygen:300' rel='stylesheet' type='text/css'> -->
+    <link href='_css/bootstrap.css' rel='stylesheet' type='text/css'>
+    <link href='_css/style.css' rel='stylesheet' type='text/css'>
+  </head>
+  <title>Basketball Heartbeat</title>
+  <body>
+    <div id="container">
+      <div id="header">
+        <img class="logo" src="_img/nba-logo-png.png">
+        <h1>
+          Basketball Heartbeat
+        </h1>
+        <img class="logo" src="_img/NCAA_Basketball.png">
+      </div>
+
+      <div id="gameContent">
+
+        <!-- <div id="gameDetails">
+          
+        </div> -->
+
+        <div id="gameInfo">
+          <h2>Game Pulse</h2>
+          <div id="gamePlay">
+
+            <div id="cal" class="gameInfoSection">
+              <img class="logo" src="_img/calLogo.png">
+              <div class="score">10</div>
+            </div>
+
+            <div id="gameDetails">
+              <div id="gameTime"  class="gameInfoSection">12:00</div>
+              <div id="playbyplay"  class="gameInfoSection"></div>
+            </div>
+          
+            <div id="stanford" class="gameInfoSection">
+              <div class="score">45</div>
+              <img class="logo" src="_img/Stanford-Logo.png">
+            </div>
+            
+          </div>
+
+          <div id="viz"></div>
+
+          <div id="gameStatistics">
+            <h2>Select Statistics Filters</h2>
+            <div>
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="All">All</button>
+            </div>
+
+            <div>
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="fg">Field Goals</button>
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="fgatt">Missed FG</button>  
+            </div>
+
+            <div>
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="3pt">3 pointer</button> 
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="3ptatt">Missed 3 pointer</button> 
+            </div> 
+
+            <div>
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="ft">Free Throw</button> 
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="ftatt">Missed Free Throw</button> 
+            </div>
+
+            <div>
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="reb">Def Rebounds</button> 
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="oreb">Off Rebounds</button> 
+            </div>
+
+            <div>
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="blk">Blocks</button> 
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="stl">Steals</button>  
+            </div>
+            <div>
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="to">Turn Overs</button> 
+              <button type='button' class='btn btn-primary btn-sm' onclick='togglePlayType(this); return false;' value="fouls">Fouls</button> 
+            </div>
+          </div>
+
+        </div>
+
+        <div id="gameLog">
+          <h2>Game Log</h2>
+          <ul></ul>
+        </div>
+
+      </div>
+
+    </div>
+      
+
+   
+
+  </body>
+  
+  <script type="text/javascript" src="_js/d3.min.js"></script>
+  <script src="_js/jquery-1.10.2.min.js"></script>
+  <script type="text/javascript" src="_js/d3.tip.js"></script>
+  <script type="text/javascript" src="_js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="_data/fullgame.js"></script>
+  <script type="text/javascript" src="_js/viz.js"></script>
+</html>

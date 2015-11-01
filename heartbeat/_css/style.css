@@ -1,0 +1,457 @@
+/* RESET CSS */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+  margin: 0 auto;
+}
+
+
+#viz,
+#stats {
+  /*display: inline-block;*/
+  vertical-align: top;
+}
+
+#stats {
+  margin:15px;
+  text-align: left;
+  width: 200px;
+
+}
+
+.playerbox {
+  opacity: 0.05;
+  fill: #000;
+}
+
+.statsbars {
+  fill: #999;
+}
+
+.playername {
+  font-size: 16px;
+  fill: #999;
+}
+
+.halftimeLine {
+  stroke-width: 2px;
+  stroke-dasharray: 4,5;
+  stroke: black;
+  opacity: 0.4;
+}
+
+.quarterLine {
+  stroke-width: 2px;
+  stroke-dasharray: 4,5;
+  stroke: gray;
+  opacity: 0.3;
+}
+
+.playerevents {
+  fill: #666;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+/*.playerevents {
+  fill: #666;
+}
+*/
+/* CSS */
+
+
+
+html, body, #map {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Verdana", sans-serif;
+  /*font-size: 11px;*/
+  /*color: #fff;*/
+}
+
+#container {
+  width: 1200px;
+  padding:10px;
+}
+
+#header {
+  width: 100%;
+  text-align: center;
+  vertical-align: top;
+  padding: 5px;
+  margin: 5px;
+  border-bottom: solid 1px gray;
+}
+
+h1 {
+  font-size: 20pt;
+  border-bottom: solid thin lightgray;
+  border-right: solid thin lightgray;
+  padding: 20px;
+  margin: 0px;
+  width: 400px;
+  background-color: orange;
+  color: white;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+
+}
+
+#header .logo {
+  height: 50px;
+  margin:5px;
+}
+
+#gameContent {
+  max-height: 425px; 
+  /*background-color: lightgray; */
+}
+
+#gameDetails {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+
+}
+
+#gameTime {
+  display: block;
+  font-size: 18pt;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.gameInfoSection {
+  display: inline-block;
+}
+
+#cal .logo {
+  width: 100px;
+  display: inline-block;
+}
+
+#stanford {
+  /*float: right;*/
+
+}
+
+#stanford .logo {
+  height:80px;
+  display: inline-block;
+}
+
+
+
+#gameStatistics {
+  /*display: inline-block;*/
+  vertical-align: top;
+  height: 100px;
+  overflow: hidden;  
+  padding: 10px 0px 10px 10px;
+
+}
+
+#gameStatistics button {
+  width: 120px;
+  margin: 2px;
+  font-size: 8pt;
+}
+
+#gameInfo {
+  display: inline-block;
+  vertical-align: top;
+  max-height: 425px;
+}
+
+#gamePlay {
+  height: 100px;
+  padding: 10px;
+
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+
+}
+
+.score {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 35pt;
+  margin: 15px;
+  padding:5px;
+  background-color: black;
+  border-radius: 3px;
+  color: white;
+  width:60px;
+
+}
+
+#gameLog {
+  display: inline-block;
+  margin-left: 5px;
+
+}
+#gameLog ul {
+  width: 180px;
+  max-height: 530px;
+  /*display: inline-block;*/
+  overflow: auto;
+  padding: 5px;
+}
+
+#gameLog li {
+  list-style-type: none;
+  font-size: 6pt;
+  padding: 2px;
+  border-bottom: solid thin lightgray;
+  cursor: default;
+}
+
+#gameLog li:nth-child(even) {
+  background-color: ghostwhite;
+}
+
+#viz {
+  padding:10px;
+  border: solid thin black;
+  background-color: ghostwhite;
+  border-radius: 5px;
+
+}
+
+#gameStatistics div {
+  display: inline-block;
+  width: 100px;
+  margin:10px;
+  vertical-align: top;
+}
+
+/* graphs */
+.labelbox {
+  opacity: 0;
+  fill: #222;
+}
+
+.outflow {
+  stroke: skyblue;
+  stroke-width: 1;
+  fill: none;
+}
+
+/*.score {
+  stroke: crimson;
+  stroke-width: 1;
+  fill: non;
+}*/
+
+.outflowtext {
+  font-family: sans-serif;
+  font-size: 12px;
+  fill: skyblue;
+}
+
+.emptytext {
+  font-family: sans-serif;
+  font-size: 12px;
+  fill: pink;
+}
+
+.scoretext {
+  font-family: sans-serif;
+  font-size: 12px;
+  fill: crimson;
+}
+
+.timetext {
+  font-family: sans-serif;
+  font-size: 12px;
+  fill: #999;
+}
+
+.empty {
+  stroke: pink;
+  stroke-width: 1;
+  fill: none;
+}
+
+path.score {
+  stroke: crimson;
+  stroke-width: 1;
+  fill: none;
+}
+
+.axis {
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+.y.axis line, .y.axis path, .x.axis path {
+  stroke: black;
+  stroke-width: 1px;
+  fill: none;
+}
+
+.y1.axis text {
+  fill: black;
+}
+
+.axislabel {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2.0px;
+}
+
+.gameplay:hover {
+  cursor: pointer;
+}
+
+#textbox {
+  color: blue;
+  font-size: 20px;
+}
+
+#playHover {
+  fill: black;
+}
+
+#timeIndicator {
+  fill: ghostwhite;
+}
+
+#container h2 {
+  padding: 5px;
+  width: 100%;
+  background-color: #4B6280;
+  color: white;
+  border-radius: 3px;
+  border: solid thin lightgray;
+}
+
+#viz .teamLabel {
+  fill: #999;
+  font-family: Helvetica;
+  font-size: 12pt;
+  font-weight: bold;
+  opacity: .5;
+}
+
+#playbyplay,
+#playerstats {
+  height: 40px;
+  display: inline-block;
+  font-size: 12pt;
+}
+
+#playbyplay {
+  width: 300px;
+  font-size: 8pt;
+  vertical-align: top;
+  text-align: left;
+  padding-left: 20px;
+}
+
+#playbyplay span.CAL {
+  background-color: blue;
+  padding: 2px;
+  border-radius: 3px;
+  color: white;
+  margin-left: 5px;
+}
+
+#playbyplay span.STANFORD {
+  background-color: crimson;
+  padding: 2px;
+  border-radius: 3px;
+  color: white;
+  margin-left: 5px;
+}
+
+.play {
+  font-size: 6pt;
+  cursor: pointer;
+}
+
+.pos {
+  color: green;
+}
+
+.pos:hover circle {
+  fill: green;
+}
+
+.pos:hover text {
+  fill: white;
+}
+
+.pos:hover #playHover {
+  fill: green;
+}
+
+.pos circle {
+  stroke-width: 1;
+  stroke: green;
+  fill: white;
+}
+
+.pos text {
+  fill: green;
+}
+
+.neg text{
+  fill: red;
+}
+
+.neg circle{
+  stroke-width: 1;
+  stroke: red;
+  fill:white;
+}
+
+.neg:hover circle {
+  fill: red;
+}
+
+.neg:hover text {
+  fill: white;
+}
+
+.neg:hover #playHover {
+  fill: red;
+}
