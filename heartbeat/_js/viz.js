@@ -35,6 +35,9 @@ var playersStats = {
 
 var selectPlayers = [];
 
+// loadGameData(gameInfo);
+// fullgame = ncaaFullgame;
+
 fullgame[0]['stats']= {};
 fullgame[0].stats['STANFORD'] = {
       'pts': 0,

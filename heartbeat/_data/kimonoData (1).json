@@ -1,0 +1,3862 @@
+{
+  "gameInfo": [
+    {
+      "AwayTeamName": "LA Clippers",
+      "HomeTeamName": "Golden State",
+      "gameBoxScore": {
+        "text": "Box Score",
+        "href": "http://www.basketball-reference.com/boxscores/201511040GSW.html"
+      }
+    }
+  ],
+  "playbyplay": [
+    {
+      "gameTime": "12:00.0",
+      "awayTeamPlay": "Start of 1st quarter",
+      "homeTeamPlay": "Start of 1st quarter",
+      "score": "",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "12:00.0",
+      "awayTeamPlay": "Jump ball: F. Ezeli vs. D. Jordan (C. Paul gains possession)",
+      "homeTeamPlay": "Jump ball: F. Ezeli vs. D. Jordan (C. Paul gains possession)",
+      "score": "",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:43.0",
+      "awayTeamPlay": "D. Jordan makes 2-pt shot from 1 ft (assist by J. Redick)",
+      "homeTeamPlay": "",
+      "score": "2-0",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:23.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green misses 3-pt shot from 25 ft",
+      "score": "2-0",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:22.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by H. Barnes",
+      "score": "2-0",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:17.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes 3-pt shot from 25 ft (assist by H. Barnes)",
+      "score": "2-3",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+3"
+    },
+    {
+      "gameTime": "11:10.0",
+      "awayTeamPlay": "Turnover by B. Griffin (lost ball)",
+      "homeTeamPlay": "",
+      "score": "2-3",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:01.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "F. Ezeli misses 2-pt shot from 2 ft (block by B. Griffin)",
+      "score": "2-3",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:59.0",
+      "awayTeamPlay": "Defensive rebound by L. Stephenson",
+      "homeTeamPlay": "",
+      "score": "2-3",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:36.0",
+      "awayTeamPlay": "L. Stephenson misses 2-pt shot from 6 ft",
+      "homeTeamPlay": "",
+      "score": "2-3",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:36.0",
+      "awayTeamPlay": "Offensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "2-3",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:36.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Loose ball foul by F. Ezeli (drawn by D. Jordan)",
+      "score": "2-3",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:31.0",
+      "awayTeamPlay": "C. Paul makes 2-pt shot from 12 ft (assist by J. Redick)",
+      "homeTeamPlay": "",
+      "score": "4-3",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:19.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "F. Ezeli makes 2-pt shot at rim (assist by S. Curry)",
+      "score": "4-5",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "10:11.0",
+      "awayTeamPlay": "Turnover by B. Griffin (bad pass)",
+      "homeTeamPlay": "",
+      "score": "4-5",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:02.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green misses 3-pt shot from 25 ft",
+      "score": "4-5",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:01.0",
+      "awayTeamPlay": "Defensive rebound by L. Stephenson",
+      "homeTeamPlay": "",
+      "score": "4-5",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:53.0",
+      "awayTeamPlay": "B. Griffin makes 2-pt shot from 21 ft (assist by L. Stephenson)",
+      "homeTeamPlay": "",
+      "score": "6-5",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:49.0",
+      "awayTeamPlay": "Personal foul by B. Griffin (drawn by D. Green)",
+      "homeTeamPlay": "",
+      "score": "6-5",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:34.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson makes 2-pt shot from 18 ft (assist by H. Barnes)",
+      "score": "6-7",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "9:21.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Personal foul by S. Curry (drawn by D. Jordan)",
+      "score": "6-7",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:15.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Personal foul by S. Curry (drawn by C. Paul)",
+      "score": "6-7",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:15.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Livingston enters the game for S. Curry",
+      "score": "6-7",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:07.0",
+      "awayTeamPlay": "B. Griffin misses 2-pt shot at rim (block by F. Ezeli)",
+      "homeTeamPlay": "",
+      "score": "6-7",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:07.0",
+      "awayTeamPlay": "Offensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "6-7",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:02.0",
+      "awayTeamPlay": "B. Griffin misses 2-pt shot from 21 ft",
+      "homeTeamPlay": "",
+      "score": "6-7",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:58.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by K. Thompson",
+      "score": "6-7",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:52.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson misses 2-pt shot from 19 ft",
+      "score": "6-7",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:52.0",
+      "awayTeamPlay": "Defensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "6-7",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:38.0",
+      "awayTeamPlay": "D. Jordan makes 2-pt shot at rim (assist by C. Paul)",
+      "homeTeamPlay": "",
+      "score": "8-7",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:23.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green makes 2-pt shot from 6 ft (assist by K. Thompson)",
+      "score": "8-9",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "8:01.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Shooting foul by D. Jordan (drawn by H. Barnes)",
+      "score": "10-9",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:09.0",
+      "awayTeamPlay": "B. Griffin makes 2-pt shot from 19 ft (assist by C. Paul)",
+      "homeTeamPlay": "",
+      "score": "10-9",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:01.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes makes free throw 1 of 2",
+      "score": "10-10",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "7:50.0",
+      "awayTeamPlay": "C. Paul misses 2-pt shot from 9 ft",
+      "homeTeamPlay": "",
+      "score": "10-11",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:01.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes makes free throw 2 of 2",
+      "score": "10-11",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "7:49.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by F. Ezeli",
+      "score": "10-11",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:39.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "F. Ezeli makes 2-pt shot from 7 ft (assist by K. Thompson)",
+      "score": "10-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "7:16.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes misses 3-pt shot from 26 ft",
+      "score": "12-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:30.0",
+      "awayTeamPlay": "D. Jordan makes 2-pt shot from 6 ft (assist by C. Paul)",
+      "homeTeamPlay": "",
+      "score": "12-13",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:16.0",
+      "awayTeamPlay": "Defensive rebound by J. Redick",
+      "homeTeamPlay": "",
+      "score": "12-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:52.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson misses 2-pt shot from 15 ft",
+      "score": "14-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:06.0",
+      "awayTeamPlay": "C. Paul makes 2-pt shot from 17 ft",
+      "homeTeamPlay": "",
+      "score": "14-13",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:51.0",
+      "awayTeamPlay": "Defensive rebound by C. Paul",
+      "homeTeamPlay": "",
+      "score": "14-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:49.0",
+      "awayTeamPlay": "Turnover by J. Redick (step out of bounds)",
+      "homeTeamPlay": "",
+      "score": "14-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:33.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by K. Thompson (lost ball; steal by C. Paul)",
+      "score": "14-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:33.0",
+      "awayTeamPlay": "Shooting foul by S. Livingston (drawn by C. Paul)",
+      "homeTeamPlay": "",
+      "score": "16-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:33.0",
+      "awayTeamPlay": "C. Paul makes 2-pt shot from 3 ft",
+      "homeTeamPlay": "",
+      "score": "16-13",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:33.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Golden State full timeout",
+      "score": "16-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:33.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala enters the game for H. Barnes",
+      "score": "16-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:21.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson misses 2-pt shot from 19 ft",
+      "score": "17-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:20.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by K. Thompson",
+      "score": "17-13",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:33.0",
+      "awayTeamPlay": "C. Paul makes free throw 1 of 1",
+      "homeTeamPlay": "",
+      "score": "17-13",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:03.0",
+      "awayTeamPlay": "J. Redick misses 2-pt shot from 21 ft",
+      "homeTeamPlay": "",
+      "score": "17-15",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:16.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson makes 2-pt shot from 14 ft",
+      "score": "17-15",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "6:02.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by F. Ezeli",
+      "score": "17-15",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:45.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green misses 3-pt shot from 26 ft",
+      "score": "17-15",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:44.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by F. Ezeli",
+      "score": "17-15",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:30.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson misses 2-pt shot from 9 ft",
+      "score": "17-15",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:28.0",
+      "awayTeamPlay": "Defensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "17-15",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:23.0",
+      "awayTeamPlay": "Offensive foul by L. Stephenson",
+      "homeTeamPlay": "",
+      "score": "17-15",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:23.0",
+      "awayTeamPlay": "Turnover by L. Stephenson (offensive foul)",
+      "homeTeamPlay": "",
+      "score": "17-15",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:23.0",
+      "awayTeamPlay": "P. Pierce enters the game for L. Stephenson",
+      "homeTeamPlay": "",
+      "score": "17-15",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:13.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "F. Ezeli makes 2-pt shot at rim (assist by S. Livingston)",
+      "score": "17-17",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "4:36.0",
+      "awayTeamPlay": "Shooting foul by D. Green (drawn by B. Griffin)",
+      "homeTeamPlay": "",
+      "score": "19-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:51.0",
+      "awayTeamPlay": "D. Jordan makes 2-pt shot at rim (assist by C. Paul)",
+      "homeTeamPlay": "",
+      "score": "19-17",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:40.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Livingston makes 2-pt shot from 13 ft",
+      "score": "19-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "4:36.0",
+      "awayTeamPlay": "J. Crawford enters the game for J. Redick",
+      "homeTeamPlay": "",
+      "score": "20-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:36.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights enters the game for F. Ezeli",
+      "score": "20-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:36.0",
+      "awayTeamPlay": "B. Griffin makes free throw 1 of 2",
+      "homeTeamPlay": "",
+      "score": "20-19",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:26.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights misses 2-pt shot from 21 ft",
+      "score": "21-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:26.0",
+      "awayTeamPlay": "Defensive rebound by P. Pierce",
+      "homeTeamPlay": "",
+      "score": "21-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:36.0",
+      "awayTeamPlay": "B. Griffin makes free throw 2 of 2",
+      "homeTeamPlay": "",
+      "score": "21-19",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:19.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Personal foul by S. Livingston (drawn by C. Paul)",
+      "score": "21-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:19.0",
+      "awayTeamPlay": "J. Smith enters the game for D. Jordan",
+      "homeTeamPlay": "",
+      "score": "22-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:04.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson misses 2-pt shot from 21 ft",
+      "score": "23-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:19.0",
+      "awayTeamPlay": "C. Paul makes free throw 1 of 2",
+      "homeTeamPlay": "",
+      "score": "22-19",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:03.0",
+      "awayTeamPlay": "Defensive rebound by B. Griffin",
+      "homeTeamPlay": "",
+      "score": "23-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:52.0",
+      "awayTeamPlay": "J. Crawford misses 2-pt shot from 1 ft",
+      "homeTeamPlay": "",
+      "score": "23-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:19.0",
+      "awayTeamPlay": "C. Paul makes free throw 2 of 2",
+      "homeTeamPlay": "",
+      "score": "23-19",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:49.0",
+      "awayTeamPlay": "Offensive rebound by B. Griffin",
+      "homeTeamPlay": "",
+      "score": "23-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:49.0",
+      "awayTeamPlay": "B. Griffin misses 2-pt shot from 2 ft",
+      "homeTeamPlay": "",
+      "score": "23-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:49.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by A. Iguodala",
+      "score": "23-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:39.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Livingston misses 2-pt shot from 8 ft",
+      "score": "23-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:38.0",
+      "awayTeamPlay": "Defensive rebound by B. Griffin",
+      "homeTeamPlay": "",
+      "score": "23-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:34.0",
+      "awayTeamPlay": "J. Crawford misses 3-pt shot from 27 ft",
+      "homeTeamPlay": "",
+      "score": "23-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:33.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by D. Green",
+      "score": "23-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:29.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Shooting foul by J. Smith (drawn by D. Green)",
+      "score": "23-19",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:29.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "L. Barbosa enters the game for K. Thompson",
+      "score": "23-20",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:29.0",
+      "awayTeamPlay": "A. Rivers enters the game for C. Paul",
+      "homeTeamPlay": "",
+      "score": "23-20",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:00.0",
+      "awayTeamPlay": "End of 1st quarter",
+      "homeTeamPlay": "End of 1st quarter",
+      "score": "",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:29.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green makes free throw 1 of 2",
+      "score": "23-20",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "12:00.0",
+      "awayTeamPlay": "Start of 2nd quarter",
+      "homeTeamPlay": "Start of 2nd quarter",
+      "score": "",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:06.0",
+      "awayTeamPlay": "B. Griffin misses 2-pt shot from 11 ft",
+      "homeTeamPlay": "",
+      "score": "23-21",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:05.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by M. Speights",
+      "score": "23-21",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:00.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala misses 3-pt shot from 28 ft",
+      "score": "23-21",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:29.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green makes free throw 2 of 2",
+      "score": "23-21",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "2:59.0",
+      "awayTeamPlay": "Defensive rebound by B. Griffin",
+      "homeTeamPlay": "",
+      "score": "23-21",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:50.0",
+      "awayTeamPlay": "Turnover by J. Smith (bad pass)",
+      "homeTeamPlay": "",
+      "score": "23-21",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:26.0",
+      "awayTeamPlay": "LA Clippers full timeout",
+      "homeTeamPlay": "",
+      "score": "23-23",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:18.0",
+      "awayTeamPlay": "Turnover by Team (shot clock)",
+      "homeTeamPlay": "",
+      "score": "23-23",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:59.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Livingston misses 2-pt shot from 11 ft",
+      "score": "23-23",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:45.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights makes 2-pt shot at rim (assist by S. Livingston)",
+      "score": "23-23",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "1:59.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by Team",
+      "score": "23-23",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:59.0",
+      "awayTeamPlay": "Personal foul by B. Griffin (drawn by M. Speights)",
+      "homeTeamPlay": "",
+      "score": "23-23",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:59.0",
+      "awayTeamPlay": "W. Johnson enters the game for B. Griffin",
+      "homeTeamPlay": "",
+      "score": "23-23",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:59.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes enters the game for D. Green",
+      "score": "23-23",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:17.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Shooting foul by W. Johnson (drawn by H. Barnes)",
+      "score": "25-25",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:54.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights makes 2-pt shot from 20 ft (assist by L. Barbosa)",
+      "score": "23-25",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "1:35.0",
+      "awayTeamPlay": "J. Smith makes 2-pt shot from 4 ft",
+      "homeTeamPlay": "",
+      "score": "25-25",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:05.0",
+      "awayTeamPlay": "A. Rivers misses 3-pt shot from 28 ft",
+      "homeTeamPlay": "",
+      "score": "25-27",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:04.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by M. Speights",
+      "score": "25-27",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:17.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes makes free throw 1 of 2",
+      "score": "25-26",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "1:17.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes makes free throw 2 of 2",
+      "score": "25-27",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "0:50.0",
+      "awayTeamPlay": "J. Smith misses 3-pt shot from 25 ft",
+      "homeTeamPlay": "",
+      "score": "25-29",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:49.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by H. Barnes",
+      "score": "25-29",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:27.0",
+      "awayTeamPlay": "J. Crawford misses 2-pt shot from 23 ft",
+      "homeTeamPlay": "",
+      "score": "25-31",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:58.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala makes 2-pt shot from 20 ft",
+      "score": "25-29",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "0:26.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by S. Livingston",
+      "score": "25-31",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:01.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights misses 2-pt shot from 16 ft",
+      "score": "25-31",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:00.0",
+      "awayTeamPlay": "Defensive rebound by J. Smith",
+      "homeTeamPlay": "",
+      "score": "25-31",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:40.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "L. Barbosa makes 2-pt shot from 2 ft (assist by H. Barnes)",
+      "score": "25-31",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "11:39.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by M. Speights (lost ball; steal by J. Smith)",
+      "score": "25-31",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:08.0",
+      "awayTeamPlay": "Shooting block foul by W. Johnson (drawn by M. Speights)",
+      "homeTeamPlay": "",
+      "score": "27-31",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:24.0",
+      "awayTeamPlay": "W. Johnson makes 2-pt shot from 6 ft (assist by J. Smith)",
+      "homeTeamPlay": "",
+      "score": "27-31",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:49.0",
+      "awayTeamPlay": "A. Rivers misses 2-pt shot from 12 ft (block by M. Speights)",
+      "homeTeamPlay": "",
+      "score": "27-33",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:48.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by S. Curry",
+      "score": "27-33",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:08.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights makes free throw 1 of 2",
+      "score": "27-32",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "10:17.0",
+      "awayTeamPlay": "J. Crawford misses 2-pt shot from 13 ft",
+      "homeTeamPlay": "",
+      "score": "27-35",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:08.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights makes free throw 2 of 2",
+      "score": "27-33",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "10:13.0",
+      "awayTeamPlay": "Offensive rebound by J. Crawford",
+      "homeTeamPlay": "",
+      "score": "27-35",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:13.0",
+      "awayTeamPlay": "J. Crawford misses 2-pt shot at rim",
+      "homeTeamPlay": "",
+      "score": "27-35",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:12.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by H. Barnes",
+      "score": "27-35",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:40.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala makes 2-pt shot from 18 ft",
+      "score": "27-35",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "10:01.0",
+      "awayTeamPlay": "LA Clippers full timeout",
+      "homeTeamPlay": "",
+      "score": "27-37",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:01.0",
+      "awayTeamPlay": "D. Jordan enters the game for J. Smith",
+      "homeTeamPlay": "",
+      "score": "27-37",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:01.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green enters the game for M. Speights",
+      "score": "27-37",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:53.0",
+      "awayTeamPlay": "Turnover by D. Jordan (lost ball)",
+      "homeTeamPlay": "",
+      "score": "27-37",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:07.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "L. Barbosa makes 2-pt shot from 2 ft",
+      "score": "27-37",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "9:26.0",
+      "awayTeamPlay": "Shooting foul by L. Barbosa (drawn by P. Pierce)",
+      "homeTeamPlay": "",
+      "score": "27-40",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:26.0",
+      "awayTeamPlay": "C. Paul enters the game for A. Rivers",
+      "homeTeamPlay": "",
+      "score": "28-40",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:12.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Shooting foul by W. Johnson (drawn by S. Curry)",
+      "score": "29-40",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:42.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes 3-pt shot from 27 ft",
+      "score": "27-40",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+3"
+    },
+    {
+      "gameTime": "9:26.0",
+      "awayTeamPlay": "P. Pierce makes free throw 1 of 2",
+      "homeTeamPlay": "",
+      "score": "28-40",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:12.0",
+      "awayTeamPlay": "B. Griffin enters the game for W. Johnson",
+      "homeTeamPlay": "",
+      "score": "29-42",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:26.0",
+      "awayTeamPlay": "P. Pierce makes free throw 2 of 2",
+      "homeTeamPlay": "",
+      "score": "29-40",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:48.0",
+      "awayTeamPlay": "J. Crawford misses 3-pt shot from 26 ft",
+      "homeTeamPlay": "",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:47.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by S. Curry",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:12.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes free throw 1 of 3",
+      "score": "29-41",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "8:39.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes misses 2-pt shot from 19 ft",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:39.0",
+      "awayTeamPlay": "Defensive rebound by P. Pierce",
+      "homeTeamPlay": "",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:12.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes free throw 2 of 3",
+      "score": "29-42",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "8:29.0",
+      "awayTeamPlay": "C. Paul misses 2-pt shot from 17 ft",
+      "homeTeamPlay": "",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:28.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by H. Barnes",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:12.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes free throw 3 of 3",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "8:13.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes misses 2-pt shot from 16 ft",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:12.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by L. Barbosa",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:09.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by L. Barbosa (bad pass; steal by C. Paul)",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:03.0",
+      "awayTeamPlay": "P. Pierce misses 3-pt shot from 25 ft",
+      "homeTeamPlay": "",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:01.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by H. Barnes",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:00.0",
+      "awayTeamPlay": "Personal foul by C. Paul (drawn by A. Iguodala)",
+      "homeTeamPlay": "",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:00.0",
+      "awayTeamPlay": "J. Redick enters the game for J. Crawford",
+      "homeTeamPlay": "",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:00.0",
+      "awayTeamPlay": "L. Stephenson enters the game for P. Pierce",
+      "homeTeamPlay": "",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:00.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson enters the game for L. Barbosa",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:00.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "F. Ezeli enters the game for H. Barnes",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:56.0",
+      "awayTeamPlay": "Away from play foul by L. Stephenson (drawn by F. Ezeli)",
+      "homeTeamPlay": "",
+      "score": "29-43",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:56.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "F. Ezeli misses free throw 1 of 1",
+      "score": "29-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:55.0",
+      "awayTeamPlay": "Defensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "29-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:14.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green misses 2-pt shot from 14 ft (block by D. Jordan)",
+      "score": "31-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:14.0",
+      "awayTeamPlay": "Defensive rebound by L. Stephenson",
+      "homeTeamPlay": "",
+      "score": "31-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:09.0",
+      "awayTeamPlay": "Turnover by C. Paul (lost ball; steal by S. Curry)",
+      "homeTeamPlay": "",
+      "score": "31-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:56.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes 3-pt shot from 29 ft (assist by A. Iguodala)",
+      "score": "29-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+3"
+    },
+    {
+      "gameTime": "6:57.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry misses 2-pt shot from 18 ft",
+      "score": "31-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:33.0",
+      "awayTeamPlay": "B. Griffin makes 2-pt shot from 20 ft (assist by C. Paul)",
+      "homeTeamPlay": "",
+      "score": "31-46",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:55.0",
+      "awayTeamPlay": "Defensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "31-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:43.0",
+      "awayTeamPlay": "Shooting foul by F. Ezeli (drawn by B. Griffin)",
+      "homeTeamPlay": "",
+      "score": "33-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:32.0",
+      "awayTeamPlay": "Personal foul by C. Paul (drawn by S. Curry)",
+      "homeTeamPlay": "",
+      "score": "34-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:00.0",
+      "awayTeamPlay": "End of 2nd quarter",
+      "homeTeamPlay": "End of 2nd quarter",
+      "score": "",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:32.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry misses free throw 1 of 2",
+      "score": "34-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "12:00.0",
+      "awayTeamPlay": "Start of 3rd quarter",
+      "homeTeamPlay": "Start of 3rd quarter",
+      "score": "",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:32.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by Team",
+      "score": "34-46",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:43.0",
+      "awayTeamPlay": "B. Griffin makes 2-pt shot from 2 ft",
+      "homeTeamPlay": "",
+      "score": "33-46",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:08.0",
+      "awayTeamPlay": "B. Griffin misses 3-pt shot from 23 ft",
+      "homeTeamPlay": "",
+      "score": "34-47",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:43.0",
+      "awayTeamPlay": "B. Griffin makes free throw 1 of 1",
+      "homeTeamPlay": "",
+      "score": "34-46",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:07.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by D. Green",
+      "score": "34-47",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:57.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry misses 3-pt shot from 24 ft",
+      "score": "34-47",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:56.0",
+      "awayTeamPlay": "Defensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "34-47",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:18.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "F. Ezeli misses 2-pt shot from 2 ft",
+      "score": "37-47",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:17.0",
+      "awayTeamPlay": "Defensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "37-47",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:32.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes free throw 2 of 2",
+      "score": "34-47",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "5:07.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Personal foul by A. Iguodala (drawn by B. Griffin)",
+      "score": "37-47",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:07.0",
+      "awayTeamPlay": "Official timeout",
+      "homeTeamPlay": "",
+      "score": "37-47",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:07.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes enters the game for A. Iguodala",
+      "score": "37-47",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:44.0",
+      "awayTeamPlay": "C. Paul makes 3-pt shot from 25 ft (assist by B. Griffin)",
+      "homeTeamPlay": "",
+      "score": "37-47",
+      "awayTeamPoints": "+3",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:30.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Personal foul by H. Barnes (drawn by D. Jordan)",
+      "score": "43-51",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:02.0",
+      "awayTeamPlay": "J. Redick makes 3-pt shot from 26 ft (assist by B. Griffin)",
+      "homeTeamPlay": "",
+      "score": "40-47",
+      "awayTeamPoints": "+3",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:09.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green misses 2-pt shot from 2 ft (block by D. Jordan)",
+      "score": "45-51",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:08.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by Team",
+      "score": "45-51",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:17.0",
+      "awayTeamPlay": "L. Stephenson makes 3-pt shot from 25 ft (assist by B. Griffin)",
+      "homeTeamPlay": "",
+      "score": "43-49",
+      "awayTeamPoints": "+3",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:44.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "F. Ezeli makes 2-pt shot at rim (assist by S. Curry)",
+      "score": "40-49",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "3:05.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Shooting foul by L. Stephenson (drawn by H. Barnes)",
+      "score": "45-53",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:55.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson makes 2-pt shot from 14 ft (assist by D. Green)",
+      "score": "43-51",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "3:19.0",
+      "awayTeamPlay": "B. Griffin makes 2-pt shot at rim (assist by L. Stephenson)",
+      "homeTeamPlay": "",
+      "score": "45-51",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:40.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson misses 3-pt shot from 26 ft",
+      "score": "47-54",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:40.0",
+      "awayTeamPlay": "Defensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "47-54",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:39.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Golden State full timeout",
+      "score": "47-54",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:39.0",
+      "awayTeamPlay": "A. Rivers enters the game for L. Stephenson",
+      "homeTeamPlay": "",
+      "score": "47-54",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:05.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes makes 2-pt shot from 2 ft (assist by S. Curry)",
+      "score": "45-53",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "2:53.0",
+      "awayTeamPlay": "C. Paul makes 2-pt shot from 2 ft",
+      "homeTeamPlay": "",
+      "score": "47-54",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:05.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes makes free throw 1 of 1",
+      "score": "45-54",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "1:26.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Personal foul by K. Thompson (drawn by C. Paul)",
+      "score": "52-60",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:22.0",
+      "awayTeamPlay": "J. Redick makes 3-pt shot from 26 ft (assist by C. Paul)",
+      "homeTeamPlay": "",
+      "score": "50-54",
+      "awayTeamPoints": "+3",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:16.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by D. Green (bad pass)",
+      "score": "54-60",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:50.0",
+      "awayTeamPlay": "C. Paul makes 2-pt shot from 11 ft",
+      "homeTeamPlay": "",
+      "score": "52-57",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:08.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes 3-pt shot from 25 ft (assist by D. Green)",
+      "score": "50-57",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+3"
+    },
+    {
+      "gameTime": "0:35.0",
+      "awayTeamPlay": "B. Griffin misses 2-pt shot from 18 ft",
+      "homeTeamPlay": "",
+      "score": "56-62",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:34.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by K. Thompson",
+      "score": "56-62",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:41.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green makes 3-pt shot from 26 ft (assist by K. Thompson)",
+      "score": "52-60",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+3"
+    },
+    {
+      "gameTime": "0:10.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson misses 2-pt shot from 12 ft",
+      "score": "56-62",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:26.0",
+      "awayTeamPlay": "C. Paul makes free throw 1 of 2",
+      "homeTeamPlay": "",
+      "score": "53-60",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:10.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by D. Green",
+      "score": "56-62",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:26.0",
+      "awayTeamPlay": "C. Paul makes free throw 2 of 2",
+      "homeTeamPlay": "",
+      "score": "54-60",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:10.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green misses 2-pt shot at rim",
+      "score": "56-62",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:10.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by D. Green",
+      "score": "56-62",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:09.0",
+      "awayTeamPlay": "C. Paul makes 2-pt shot from 18 ft",
+      "homeTeamPlay": "",
+      "score": "56-60",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:10.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Shooting foul by C. Paul (drawn by D. Green)",
+      "score": "56-62",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:55.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson makes 2-pt shot from 22 ft (assist by F. Ezeli)",
+      "score": "56-62",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "0:10.0",
+      "awayTeamPlay": "J. Crawford enters the game for A. Rivers",
+      "homeTeamPlay": "",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:10.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala enters the game for S. Curry",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:10.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "J. McAdoo enters the game for F. Ezeli",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:10.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green misses free throw 2 of 2",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:09.0",
+      "awayTeamPlay": "Defensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:09.0",
+      "awayTeamPlay": "LA Clippers full timeout",
+      "homeTeamPlay": "",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:09.0",
+      "awayTeamPlay": "P. Pierce enters the game for D. Jordan",
+      "homeTeamPlay": "",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:06.0",
+      "awayTeamPlay": "B. Griffin misses 3-pt shot from 26 ft",
+      "homeTeamPlay": "",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:04.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by A. Iguodala",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:10.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green makes free throw 1 of 2",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "0:01.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala misses 3-pt shot from 42 ft",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:00.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by Team",
+      "score": "56-63",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:03.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by D. Green (bad pass)",
+      "score": "59-65",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:44.0",
+      "awayTeamPlay": "Turnover by C. Paul (bad pass)",
+      "homeTeamPlay": "",
+      "score": "59-65",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:39.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry misses 2-pt shot from 16 ft",
+      "score": "59-65",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:38.0",
+      "awayTeamPlay": "Defensive rebound by C. Paul",
+      "homeTeamPlay": "",
+      "score": "59-65",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:28.0",
+      "awayTeamPlay": "Turnover by D. Jordan (lost ball; steal by K. Thompson)",
+      "homeTeamPlay": "",
+      "score": "59-65",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:15.0",
+      "awayTeamPlay": "L. Stephenson makes 3-pt shot from 25 ft (assist by B. Griffin)",
+      "homeTeamPlay": "",
+      "score": "59-65",
+      "awayTeamPoints": "+3",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:44.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "F. Ezeli makes 2-pt shot at rim (assist by D. Green)",
+      "score": "56-65",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "9:43.0",
+      "awayTeamPlay": "Shooting foul by D. Green (drawn by L. Stephenson)",
+      "homeTeamPlay": "",
+      "score": "61-69",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:43.0",
+      "awayTeamPlay": "L. Stephenson misses free throw 1 of 2",
+      "homeTeamPlay": "",
+      "score": "61-69",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:43.0",
+      "awayTeamPlay": "Offensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "61-69",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:15.0",
+      "awayTeamPlay": "C. Paul misses 2-pt shot from 19 ft",
+      "homeTeamPlay": "",
+      "score": "62-71",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:14.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by K. Thompson",
+      "score": "62-71",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:03.0",
+      "awayTeamPlay": "B. Griffin makes 2-pt shot from 7 ft",
+      "homeTeamPlay": "",
+      "score": "61-67",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:22.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson makes 2-pt shot from 2 ft",
+      "score": "59-67",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "9:08.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson misses 3-pt shot from 26 ft",
+      "score": "62-71",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:07.0",
+      "awayTeamPlay": "Defensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "62-71",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:48.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson makes 2-pt shot from 13 ft",
+      "score": "61-69",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "0:00.0",
+      "awayTeamPlay": "End of 3rd quarter",
+      "homeTeamPlay": "End of 3rd quarter",
+      "score": "",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:39.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by K. Thompson (lost ball)",
+      "score": "64-71",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "12:00.0",
+      "awayTeamPlay": "Start of 4th quarter",
+      "homeTeamPlay": "Start of 4th quarter",
+      "score": "",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:25.0",
+      "awayTeamPlay": "Turnover by D. Jordan (lost ball; steal by K. Thompson)",
+      "homeTeamPlay": "",
+      "score": "64-71",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:43.0",
+      "awayTeamPlay": "L. Stephenson makes free throw 2 of 2",
+      "homeTeamPlay": "",
+      "score": "62-69",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:25.0",
+      "awayTeamPlay": "Personal foul by D. Jordan (drawn by K. Thompson)",
+      "homeTeamPlay": "",
+      "score": "64-71",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:14.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Shooting foul by C. Paul (drawn by S. Curry)",
+      "score": "64-71",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:31.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "F. Ezeli makes 2-pt shot at rim (assist by D. Green)",
+      "score": "62-71",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "8:14.0",
+      "awayTeamPlay": "A. Rivers enters the game for C. Paul",
+      "homeTeamPlay": "",
+      "score": "64-72",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:51.0",
+      "awayTeamPlay": "B. Griffin makes 2-pt shot from 8 ft (assist by J. Redick)",
+      "homeTeamPlay": "",
+      "score": "64-71",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:49.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry misses 3-pt shot from 30 ft",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:49.0",
+      "awayTeamPlay": "Defensive rebound by L. Stephenson",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:25.0",
+      "awayTeamPlay": "L. Stephenson misses 2-pt shot from 19 ft",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:24.0",
+      "awayTeamPlay": "Offensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:24.0",
+      "awayTeamPlay": "Shooting foul by F. Ezeli (drawn by D. Jordan)",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:24.0",
+      "awayTeamPlay": "D. Jordan misses free throw 1 of 2",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:24.0",
+      "awayTeamPlay": "Offensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:14.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes free throw 1 of 2",
+      "score": "64-72",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "7:24.0",
+      "awayTeamPlay": "D. Jordan misses free throw 2 of 2",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:23.0",
+      "awayTeamPlay": "Jump ball: J. Smith vs. M. Speights (C. Paul gains possession)",
+      "homeTeamPlay": "Jump ball: J. Smith vs. M. Speights (C. Paul gains possession)",
+      "score": "",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:23.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by Team",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:00.0",
+      "awayTeamPlay": "J. Redick makes 2-pt shot from 22 ft (assist by B. Griffin)",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:14.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes free throw 2 of 2",
+      "score": "64-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "7:13.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson misses 2-pt shot from 8 ft",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:12.0",
+      "awayTeamPlay": "Defensive rebound by B. Griffin",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:57.0",
+      "awayTeamPlay": "L. Stephenson misses 2-pt shot from 1 ft (block by F. Ezeli)",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:56.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by S. Curry",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:56.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry misses 2-pt shot at rim (block by A. Rivers)",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:56.0",
+      "awayTeamPlay": "Defensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:46.0",
+      "awayTeamPlay": "A. Rivers misses 2-pt shot from 11 ft",
+      "homeTeamPlay": "",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:45.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by H. Barnes",
+      "score": "66-73",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:05.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Personal foul by D. Green (drawn by J. Redick)",
+      "score": "66-75",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:05.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Golden State full timeout",
+      "score": "66-75",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:05.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala enters the game for H. Barnes",
+      "score": "66-75",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:22.0",
+      "awayTeamPlay": "J. Redick misses 2-pt shot from 21 ft",
+      "homeTeamPlay": "",
+      "score": "68-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:21.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by F. Ezeli",
+      "score": "68-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:14.0",
+      "awayTeamPlay": "Personal foul by A. Rivers (drawn by D. Green)",
+      "homeTeamPlay": "",
+      "score": "68-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:08.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson misses 2-pt shot from 17 ft",
+      "score": "68-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:07.0",
+      "awayTeamPlay": "Defensive rebound by L. Stephenson",
+      "homeTeamPlay": "",
+      "score": "68-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:24.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson makes 2-pt shot from 20 ft (assist by F. Ezeli)",
+      "score": "66-75",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "4:48.0",
+      "awayTeamPlay": "B. Griffin misses 2-pt shot from 12 ft",
+      "homeTeamPlay": "",
+      "score": "68-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:47.0",
+      "awayTeamPlay": "Offensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "68-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:51.0",
+      "awayTeamPlay": "J. Redick makes 2-pt shot from 8 ft",
+      "homeTeamPlay": "",
+      "score": "68-75",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:23.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala misses 3-pt shot from 24 ft",
+      "score": "71-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:23.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by Team",
+      "score": "71-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:23.0",
+      "awayTeamPlay": "Loose ball foul by J. Redick (drawn by D. Green)",
+      "homeTeamPlay": "",
+      "score": "71-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:38.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green makes 2-pt shot from 1 ft (assist by K. Thompson)",
+      "score": "68-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "4:23.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights enters the game for F. Ezeli",
+      "score": "71-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:23.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Livingston enters the game for K. Thompson",
+      "score": "71-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:23.0",
+      "awayTeamPlay": "J. Crawford enters the game for J. Redick",
+      "homeTeamPlay": "",
+      "score": "71-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:06.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights misses 2-pt shot from 19 ft",
+      "score": "71-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:06.0",
+      "awayTeamPlay": "Defensive rebound by B. Griffin",
+      "homeTeamPlay": "",
+      "score": "71-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:42.0",
+      "awayTeamPlay": "J. Redick makes 3-pt shot from 28 ft (assist by L. Stephenson)",
+      "homeTeamPlay": "",
+      "score": "71-77",
+      "awayTeamPoints": "+3",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:38.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry misses 3-pt shot from 25 ft",
+      "score": "73-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:37.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by A. Iguodala",
+      "score": "73-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:30.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green misses 3-pt shot from 25 ft",
+      "score": "73-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:29.0",
+      "awayTeamPlay": "Defensive rebound by J. Crawford",
+      "homeTeamPlay": "",
+      "score": "73-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:17.0",
+      "awayTeamPlay": "J. Crawford misses 2-pt shot from 14 ft",
+      "homeTeamPlay": "",
+      "score": "73-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:17.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by S. Livingston",
+      "score": "73-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:00.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry misses 2-pt shot from 9 ft",
+      "score": "73-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:59.0",
+      "awayTeamPlay": "Defensive rebound by B. Griffin",
+      "homeTeamPlay": "",
+      "score": "73-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:55.0",
+      "awayTeamPlay": "D. Jordan makes 2-pt shot at rim (assist by B. Griffin)",
+      "homeTeamPlay": "",
+      "score": "73-77",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:35.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry misses 3-pt shot from 26 ft",
+      "score": "75-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:34.0",
+      "awayTeamPlay": "Defensive rebound by J. Crawford",
+      "homeTeamPlay": "",
+      "score": "75-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:16.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Golden State full timeout",
+      "score": "77-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:16.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "L. Barbosa enters the game for S. Curry",
+      "score": "77-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:06.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights misses 2-pt shot from 20 ft",
+      "score": "77-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:05.0",
+      "awayTeamPlay": "Defensive rebound by J. Crawford",
+      "homeTeamPlay": "",
+      "score": "77-77",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:34.0",
+      "awayTeamPlay": "Jump ball: B. Griffin vs. A. Iguodala (D. Jordan gains possession)",
+      "homeTeamPlay": "Jump ball: B. Griffin vs. A. Iguodala (D. Jordan gains possession)",
+      "score": "",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:51.0",
+      "awayTeamPlay": "B. Griffin makes 2-pt shot from 19 ft",
+      "homeTeamPlay": "",
+      "score": "75-77",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:11.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Shooting foul by A. Rivers (drawn by L. Barbosa)",
+      "score": "81-79",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:11.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "L. Barbosa misses free throw 1 of 2",
+      "score": "81-79",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:11.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by Team",
+      "score": "81-79",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:26.0",
+      "awayTeamPlay": "A. Rivers makes 2-pt shot from 1 ft",
+      "homeTeamPlay": "",
+      "score": "77-77",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:11.0",
+      "awayTeamPlay": "J. Smith enters the game for D. Jordan",
+      "homeTeamPlay": "",
+      "score": "81-79",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:11.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes enters the game for D. Green",
+      "score": "81-79",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:03.0",
+      "awayTeamPlay": "Turnover by J. Smith (bad pass; steal by A. Iguodala)",
+      "homeTeamPlay": "",
+      "score": "81-80",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:03.0",
+      "awayTeamPlay": "Personal foul by A. Rivers (drawn by A. Iguodala)",
+      "homeTeamPlay": "",
+      "score": "81-80",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:57.0",
+      "awayTeamPlay": "J. Crawford makes 2-pt shot from 16 ft",
+      "homeTeamPlay": "",
+      "score": "79-77",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:03.0",
+      "awayTeamPlay": "P. Pierce enters the game for L. Stephenson",
+      "homeTeamPlay": "",
+      "score": "81-81",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:42.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "L. Barbosa makes 2-pt shot from 17 ft (assist by D. Green)",
+      "score": "79-79",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "1:19.0",
+      "awayTeamPlay": "B. Griffin makes 2-pt shot from 19 ft (assist by J. Crawford)",
+      "homeTeamPlay": "",
+      "score": "81-79",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:45.0",
+      "awayTeamPlay": "B. Griffin misses 2-pt shot from 5 ft",
+      "homeTeamPlay": "",
+      "score": "81-82",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:44.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by M. Speights",
+      "score": "81-82",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:29.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by H. Barnes (lost ball; steal by J. Crawford)",
+      "score": "81-82",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:02.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala misses 2-pt shot from 8 ft",
+      "score": "83-82",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:00.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by H. Barnes",
+      "score": "83-82",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:11.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "L. Barbosa makes free throw 2 of 2",
+      "score": "81-80",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "11:32.0",
+      "awayTeamPlay": "Personal foul by A. Rivers (drawn by L. Barbosa)",
+      "homeTeamPlay": "",
+      "score": "85-82",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:03.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala makes free throw 1 of 2",
+      "score": "81-81",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "11:04.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Personal foul by S. Livingston (drawn by J. Crawford)",
+      "score": "85-84",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:03.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala makes free throw 2 of 2",
+      "score": "81-82",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "10:44.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Shooting foul by J. Smith (drawn by M. Speights)",
+      "score": "87-84",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:44.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights misses free throw 1 of 2",
+      "score": "87-84",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:08.0",
+      "awayTeamPlay": "J. Crawford makes 2-pt shot from 1 ft",
+      "homeTeamPlay": "",
+      "score": "83-82",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:44.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by Team",
+      "score": "87-84",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:29.0",
+      "awayTeamPlay": "J. Crawford misses 2-pt shot from 11 ft",
+      "homeTeamPlay": "",
+      "score": "87-85",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:29.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by M. Speights",
+      "score": "87-85",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:21.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by S. Livingston (bad pass)",
+      "score": "87-85",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:47.0",
+      "awayTeamPlay": "A. Rivers makes 2-pt shot from 1 ft",
+      "homeTeamPlay": "",
+      "score": "85-82",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:07.0",
+      "awayTeamPlay": "P. Pierce misses 3-pt shot from 29 ft",
+      "homeTeamPlay": "",
+      "score": "87-85",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:05.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by M. Speights",
+      "score": "87-85",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:59.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive foul by S. Livingston",
+      "score": "87-85",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "11:26.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "L. Barbosa makes 2-pt shot from 4 ft (assist by S. Livingston)",
+      "score": "85-84",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "9:59.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by S. Livingston (offensive foul)",
+      "score": "87-85",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:55.0",
+      "awayTeamPlay": "J. Crawford makes 2-pt shot from 20 ft",
+      "homeTeamPlay": "",
+      "score": "87-84",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:00.0",
+      "awayTeamPlay": "End of 4th quarter",
+      "homeTeamPlay": "End of 4th quarter",
+      "score": "",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:23.0",
+      "awayTeamPlay": "C. Paul enters the game for A. Rivers",
+      "homeTeamPlay": "",
+      "score": "89-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:12.0",
+      "awayTeamPlay": "C. Paul misses 3-pt shot from 27 ft",
+      "homeTeamPlay": "",
+      "score": "89-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "10:44.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights makes free throw 2 of 2",
+      "score": "87-85",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "9:11.0",
+      "awayTeamPlay": "Offensive rebound by J. Smith",
+      "homeTeamPlay": "",
+      "score": "89-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:39.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "M. Speights misses 2-pt shot from 11 ft",
+      "score": "92-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:38.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by S. Livingston",
+      "score": "92-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:34.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Livingston misses 2-pt shot from 16 ft",
+      "score": "92-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:33.0",
+      "awayTeamPlay": "Defensive rebound by C. Paul",
+      "homeTeamPlay": "",
+      "score": "92-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:50.0",
+      "awayTeamPlay": "A. Rivers makes 2-pt shot from 16 ft",
+      "homeTeamPlay": "",
+      "score": "89-85",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:19.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Golden State full timeout",
+      "score": "95-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:19.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green enters the game for S. Livingston",
+      "score": "95-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "9:39.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Livingston makes 2-pt shot from 13 ft",
+      "score": "89-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "8:19.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson enters the game for M. Speights",
+      "score": "95-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:19.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry enters the game for L. Barbosa",
+      "score": "95-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:05.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by A. Iguodala (lost ball; steal by P. Pierce)",
+      "score": "95-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:57.0",
+      "awayTeamPlay": "J. Smith misses 2-pt shot from 2 ft",
+      "homeTeamPlay": "",
+      "score": "95-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:56.0",
+      "awayTeamPlay": "Offensive rebound by J. Crawford",
+      "homeTeamPlay": "",
+      "score": "95-87",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:57.0",
+      "awayTeamPlay": "W. Johnson makes 3-pt shot from 24 ft (assist by C. Paul)",
+      "homeTeamPlay": "",
+      "score": "92-87",
+      "awayTeamPoints": "+3",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:26.0",
+      "awayTeamPlay": "Shooting foul by K. Thompson (drawn by P. Pierce)",
+      "homeTeamPlay": "",
+      "score": "97-89",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:26.0",
+      "awayTeamPlay": "P. Pierce misses free throw 1 of 2",
+      "homeTeamPlay": "",
+      "score": "97-89",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:26.0",
+      "awayTeamPlay": "Offensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "97-89",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "8:26.0",
+      "awayTeamPlay": "J. Smith makes 3-pt shot from 26 ft (assist by C. Paul)",
+      "homeTeamPlay": "",
+      "score": "95-87",
+      "awayTeamPoints": "+3",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:49.0",
+      "awayTeamPlay": "J. Crawford misses 2-pt shot from 12 ft",
+      "homeTeamPlay": "",
+      "score": "98-92",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:48.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by H. Barnes",
+      "score": "98-92",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:36.0",
+      "awayTeamPlay": "LA Clippers full timeout",
+      "homeTeamPlay": "",
+      "score": "98-95",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:36.0",
+      "awayTeamPlay": "D. Jordan enters the game for J. Smith",
+      "homeTeamPlay": "",
+      "score": "98-95",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:36.0",
+      "awayTeamPlay": "B. Griffin enters the game for W. Johnson",
+      "homeTeamPlay": "",
+      "score": "98-95",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:56.0",
+      "awayTeamPlay": "J. Crawford makes 2-pt shot from 1 ft",
+      "homeTeamPlay": "",
+      "score": "97-87",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:20.0",
+      "awayTeamPlay": "J. Crawford misses 2-pt shot from 17 ft (block by H. Barnes)",
+      "homeTeamPlay": "",
+      "score": "98-95",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:48.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes makes 2-pt shot from 8 ft (assist by S. Curry)",
+      "score": "97-89",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "6:19.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by A. Iguodala",
+      "score": "98-95",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:48.0",
+      "awayTeamPlay": "P. Pierce misses 3-pt shot from 23 ft",
+      "homeTeamPlay": "",
+      "score": "98-97",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:47.0",
+      "awayTeamPlay": "Offensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "98-97",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:26.0",
+      "awayTeamPlay": "P. Pierce makes free throw 2 of 2",
+      "homeTeamPlay": "",
+      "score": "98-89",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:42.0",
+      "awayTeamPlay": "Shooting foul by D. Green (drawn by P. Pierce)",
+      "homeTeamPlay": "",
+      "score": "98-97",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:42.0",
+      "awayTeamPlay": "P. Pierce misses free throw 1 of 2",
+      "homeTeamPlay": "",
+      "score": "98-97",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "7:14.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes makes 3-pt shot from 23 ft (assist by A. Iguodala)",
+      "score": "98-92",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+3"
+    },
+    {
+      "gameTime": "5:42.0",
+      "awayTeamPlay": "Offensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "98-97",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:42.0",
+      "awayTeamPlay": "J. Redick enters the game for J. Crawford",
+      "homeTeamPlay": "",
+      "score": "98-97",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:36.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes makes 3-pt shot from 24 ft (assist by K. Thompson)",
+      "score": "98-95",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+3"
+    },
+    {
+      "gameTime": "5:21.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Personal foul by S. Curry (drawn by C. Paul)",
+      "score": "99-100",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:21.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Technical foul by D. Green",
+      "score": "99-100",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:21.0",
+      "awayTeamPlay": "Technical foul by C. Paul",
+      "homeTeamPlay": "",
+      "score": "99-100",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:21.0",
+      "awayTeamPlay": "A. Rivers enters the game for P. Pierce",
+      "homeTeamPlay": "",
+      "score": "99-100",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:06.0",
+      "awayTeamPlay": "Turnover by Team (shot clock)",
+      "homeTeamPlay": "",
+      "score": "99-100",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "6:15.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "H. Barnes makes 2-pt shot at rim (assist by A. Iguodala)",
+      "score": "98-97",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "5:03.0",
+      "awayTeamPlay": "Personal foul by A. Rivers (drawn by H. Barnes)",
+      "homeTeamPlay": "",
+      "score": "99-100",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:36.0",
+      "awayTeamPlay": "B. Griffin misses 2-pt shot from 11 ft",
+      "homeTeamPlay": "",
+      "score": "99-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:34.0",
+      "awayTeamPlay": "Offensive rebound by B. Griffin",
+      "homeTeamPlay": "",
+      "score": "99-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:26.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive foul by D. Green",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:42.0",
+      "awayTeamPlay": "P. Pierce makes free throw 2 of 2",
+      "homeTeamPlay": "",
+      "score": "99-97",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:26.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by D. Green (offensive foul)",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:02.0",
+      "awayTeamPlay": "B. Griffin misses 2-pt shot from 8 ft",
+      "homeTeamPlay": "",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "5:32.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes 3-pt shot from 25 ft",
+      "score": "99-100",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+3"
+    },
+    {
+      "gameTime": "4:02.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by S. Curry",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:02.0",
+      "awayTeamPlay": "Loose ball foul by D. Jordan (drawn by D. Green)",
+      "homeTeamPlay": "",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:51.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson misses 2-pt shot from 10 ft",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:51.0",
+      "awayTeamPlay": "Defensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:45.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Personal foul by A. Iguodala (drawn by C. Paul)",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:45.0",
+      "awayTeamPlay": "C. Paul misses free throw 1 of 2",
+      "homeTeamPlay": "",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:45.0",
+      "awayTeamPlay": "Offensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:45.0",
+      "awayTeamPlay": "C. Paul misses free throw 2 of 2",
+      "homeTeamPlay": "",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:56.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes 3-pt shot from 27 ft (assist by A. Iguodala)",
+      "score": "99-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+3"
+    },
+    {
+      "gameTime": "3:44.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by A. Iguodala",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:34.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry misses 2-pt shot from 16 ft",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "4:34.0",
+      "awayTeamPlay": "B. Griffin makes 2-pt shot from 1 ft",
+      "homeTeamPlay": "",
+      "score": "101-103",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:34.0",
+      "awayTeamPlay": "Defensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "101-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:11.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Turnover by H. Barnes (bad pass; steal by C. Paul)",
+      "score": "103-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:58.0",
+      "awayTeamPlay": "Official timeout",
+      "homeTeamPlay": "",
+      "score": "103-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:51.0",
+      "awayTeamPlay": "J. Redick misses 3-pt shot from 26 ft",
+      "homeTeamPlay": "",
+      "score": "103-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:51.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by D. Green",
+      "score": "103-103",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:14.0",
+      "awayTeamPlay": "C. Paul misses 2-pt shot at rim",
+      "homeTeamPlay": "",
+      "score": "103-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:13.0",
+      "awayTeamPlay": "Offensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "103-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:04.0",
+      "awayTeamPlay": "A. Rivers misses 3-pt shot from 24 ft",
+      "homeTeamPlay": "",
+      "score": "103-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:03.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by H. Barnes",
+      "score": "103-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:54.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "D. Green misses 3-pt shot from 25 ft",
+      "score": "103-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:53.0",
+      "awayTeamPlay": "Defensive rebound by B. Griffin",
+      "homeTeamPlay": "",
+      "score": "103-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:30.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala misses 3-pt shot from 25 ft",
+      "score": "105-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "3:27.0",
+      "awayTeamPlay": "C. Paul makes 2-pt shot at rim (assist by D. Jordan)",
+      "homeTeamPlay": "",
+      "score": "103-103",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:30.0",
+      "awayTeamPlay": "Defensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "105-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:17.0",
+      "awayTeamPlay": "Shooting foul by A. Iguodala (drawn by D. Jordan)",
+      "homeTeamPlay": "",
+      "score": "105-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:17.0",
+      "awayTeamPlay": "D. Jordan misses free throw 1 of 2",
+      "homeTeamPlay": "",
+      "score": "105-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:17.0",
+      "awayTeamPlay": "Offensive rebound by Team",
+      "homeTeamPlay": "",
+      "score": "105-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "2:36.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes 2-pt shot from 22 ft (assist by A. Iguodala)",
+      "score": "103-105",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+2"
+    },
+    {
+      "gameTime": "0:54.0",
+      "awayTeamPlay": "C. Paul misses 2-pt shot from 9 ft",
+      "homeTeamPlay": "",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:53.0",
+      "awayTeamPlay": "Offensive rebound by D. Jordan",
+      "homeTeamPlay": "",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:53.0",
+      "awayTeamPlay": "D. Jordan misses 2-pt shot from 2 ft",
+      "homeTeamPlay": "",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:53.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by Team",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:42.0",
+      "awayTeamPlay": "Personal foul by A. Rivers (drawn by A. Iguodala)",
+      "homeTeamPlay": "",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:42.0",
+      "awayTeamPlay": "L. Stephenson enters the game for A. Rivers",
+      "homeTeamPlay": "",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:47.0",
+      "awayTeamPlay": "A. Rivers makes 2-pt shot from 1 ft (assist by C. Paul)",
+      "homeTeamPlay": "",
+      "score": "105-105",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:42.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala misses free throw 1 of 2",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:42.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Offensive rebound by Team",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:42.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "A. Iguodala misses free throw 2 of 2",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:42.0",
+      "awayTeamPlay": "Defensive rebound by B. Griffin",
+      "homeTeamPlay": "",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:42.0",
+      "awayTeamPlay": "LA Clippers full timeout",
+      "homeTeamPlay": "",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:42.0",
+      "awayTeamPlay": "J. Crawford enters the game for L. Stephenson",
+      "homeTeamPlay": "",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:42.0",
+      "awayTeamPlay": "P. Pierce enters the game for D. Jordan",
+      "homeTeamPlay": "",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:17.0",
+      "awayTeamPlay": "D. Jordan makes free throw 2 of 2",
+      "homeTeamPlay": "",
+      "score": "106-105",
+      "awayTeamPoints": "+1",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:20.0",
+      "awayTeamPlay": "C. Paul misses 3-pt shot from 26 ft",
+      "homeTeamPlay": "",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "1:08.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes 3-pt shot from 27 ft",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+3"
+    },
+    {
+      "gameTime": "0:20.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by S. Curry",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:20.0",
+      "awayTeamPlay": "Personal foul by B. Griffin (drawn by S. Curry)",
+      "homeTeamPlay": "",
+      "score": "106-108",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:20.0",
+      "awayTeamPlay": "D. Jordan enters the game for J. Crawford",
+      "homeTeamPlay": "",
+      "score": "106-109",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:20.0",
+      "awayTeamPlay": "LA Clippers full timeout",
+      "homeTeamPlay": "",
+      "score": "106-110",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:20.0",
+      "awayTeamPlay": "J. Crawford enters the game for D. Jordan",
+      "homeTeamPlay": "",
+      "score": "106-110",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:13.0",
+      "awayTeamPlay": "Personal foul by B. Griffin (drawn by K. Thompson)",
+      "homeTeamPlay": "",
+      "score": "108-110",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:13.0",
+      "awayTeamPlay": "D. Jordan enters the game for J. Crawford",
+      "homeTeamPlay": "",
+      "score": "108-111",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:13.0",
+      "awayTeamPlay": "LA Clippers full timeout",
+      "homeTeamPlay": "",
+      "score": "108-112",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:13.0",
+      "awayTeamPlay": "J. Crawford enters the game for D. Jordan",
+      "homeTeamPlay": "",
+      "score": "108-112",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:13.0",
+      "awayTeamPlay": "W. Johnson enters the game for C. Paul",
+      "homeTeamPlay": "",
+      "score": "108-112",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:04.0",
+      "awayTeamPlay": "J. Crawford misses 3-pt shot from 27 ft (block by K. Thompson)",
+      "homeTeamPlay": "",
+      "score": "108-112",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:03.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "Defensive rebound by K. Thompson",
+      "score": "108-112",
+      "awayTeamPoints": "",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:20.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes free throw 1 of 2",
+      "score": "106-109",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "0:20.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "S. Curry makes free throw 2 of 2",
+      "score": "106-110",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "0:14.0",
+      "awayTeamPlay": "C. Paul makes 2-pt shot from 1 ft",
+      "homeTeamPlay": "",
+      "score": "108-110",
+      "awayTeamPoints": "+2",
+      "homeTeamPoints": ""
+    },
+    {
+      "gameTime": "0:13.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson makes free throw 1 of 2",
+      "score": "108-111",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    },
+    {
+      "gameTime": "0:13.0",
+      "awayTeamPlay": "",
+      "homeTeamPlay": "K. Thompson makes free throw 2 of 2",
+      "score": "108-112",
+      "awayTeamPoints": "",
+      "homeTeamPoints": "+1"
+    }
+  ]
+}
